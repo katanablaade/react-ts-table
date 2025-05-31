@@ -49,15 +49,16 @@ npm run server
 npm run dev
 ```
 
-Приложение будет доступно по адресу:
-
-Приложение:
-[http://localhost:5173](http://localhost:5173)
-JSON-server:
-[http://localhost:3001](http://localhost:3001)
-
 Для запуска тестов:
 
 ```sh
 npm run test
 ```
+
+Приложение будет доступно по адресу:
+
+- Приложение:
+  [http://localhost:5173](http://localhost:5173)
+
+- JSON-server:
+  [http://localhost:3001](http://localhost:3001)

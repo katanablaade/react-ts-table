@@ -12,7 +12,7 @@
 - [React Hook Form](https://react-hook-form.com/) — эффективный способ работы с формами, минимизируя количество повторных рендеров
 - [Axios](https://axios-http.com) — удобный API для работы с RESTful API и другими сетевыми запросами
 - [MUI](https://mui.com/) — библиотека готовых компонентов для ускорения разработки
-- [Vitest + MSW] (https://vitest.dev/) — тестирование и мокинг сетевых запросов
+- [Vitest + MSW](https://vitest.dev/) — тестирование и мокинг сетевых запросов
 - [ESLint](https://eslint.org/) — инструмент, который помогает находить и исправлять проблемы с качеством кода
 - [Prettier](https://prettier.io/) — единый стиль кода, удобство написания
 
@@ -52,8 +52,8 @@ npm run dev
 Приложение будет доступно по адресу:
 
 ```sh
-Приложение: http://localhost:5173
-JSON-server: http://localhost:3001
+Приложение:<a href='http://localhost:5173'>http://localhost:5173</a>
+JSON-server:<a href='http://localhost:3001'>http://localhost:3001</a>
 ```
 
 Для запуска тестов:

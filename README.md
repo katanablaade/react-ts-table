@@ -28,7 +28,7 @@
 Клонировать репозиторий
 
 ```sh
-git clone git@github.com:katanablaade/react-ts-table.git
+git clone https://github.com/katanablaade/react-ts-table.git
 ```
 
 Установить зависимости
